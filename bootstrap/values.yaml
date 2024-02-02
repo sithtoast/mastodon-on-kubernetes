@@ -1,6 +1,6 @@
 # Global Parameters (REQUIRED)
 # Add your domain (REQUIRED)
-domain: "" 
+domain: "m.dumbdomain.xyz" 
 # Application specific
 traefik:
   enable: true

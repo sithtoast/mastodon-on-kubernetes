@@ -11,7 +11,7 @@ spec:
   source:
     path: bootstrap/bootstrap-resources
     # REQUIRED CHANGE
-    repoURL: https://github.com/digitalocean/mastodon-on-kubernetes
+    repoURL: https://github.com/sithtoast/mastodon-on-kubernetes
     targetRevision: HEAD
     helm:
       parameters:
